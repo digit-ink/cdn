@@ -1,1 +1,1 @@
-# cdn
+Digit.ink Github CDN
